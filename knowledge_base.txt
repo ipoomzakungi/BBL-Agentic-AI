@@ -1,0 +1,39 @@
+[TRAVEL-001]
+Title: International Travel Approval
+Tags: travel, international, approval
+Employees planning international business travel must submit a travel request at least 30 calendar days before departure. The request must be approved by the employee's direct manager and department head before any booking is made.
+
+[TRAVEL-002]
+Title: International Travel Documents
+Tags: travel, international, documents, passport, visa
+Travelers are responsible for carrying a passport that remains valid for at least six months after the planned return date and for obtaining any required visa. Human Resources can provide an employment confirmation letter when a consulate requires one.
+
+[TRAVEL-003]
+Title: Flight Booking and Travel Class
+Tags: travel, flight, booking, approval
+Economy class is required for flights shorter than eight hours. Premium economy may be approved by the employee's direct manager for flights of eight hours or longer. Business class requires written approval from a department director before booking.
+
+[TRAVEL-004]
+Title: Accommodation
+Tags: travel, accommodation, hotel, approval
+Employees may book a hotel within the approved nightly rate for the destination. A room above the approved rate requires the direct manager's written approval before booking. Personal room upgrades are not reimbursable.
+
+[EXPENSE-001]
+Title: Expense Reimbursement Submission
+Tags: expense, reimbursement, receipt, deadline
+Travel expenses must be submitted through the expense system within ten business days after the employee returns. An itemized receipt is required for every individual expense above 500 THB.
+
+[EXPENSE-002]
+Title: Reimbursable and Personal Expenses
+Tags: expense, reimbursement, personal
+Reasonable ground transportation, business meals, visa fees, and approved accommodation are reimbursable business expenses. Personal sightseeing, minibar charges, entertainment, traffic fines, and costs for family members are not reimbursable.
+
+[SECURITY-001]
+Title: Travel Incident Reporting
+Tags: travel, security, incident, passport
+A traveler who loses a passport or experiences a security incident must contact the direct manager and Corporate Security as soon as possible and no later than 24 hours after the incident. Emergency replacement document fees may be reimbursed when receipts are provided.
+
+[DOMESTIC-001]
+Title: Domestic Travel Approval
+Tags: travel, domestic, approval
+A domestic travel request should be submitted at least five business days before departure and requires approval from the employee's direct manager. Department-head approval is not required unless the trip exceeds the department's approved budget.
